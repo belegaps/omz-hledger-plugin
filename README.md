@@ -23,6 +23,7 @@ This plugin provides aliases and completions for [hledger](https://hledger.org/)
 | `hl` | `hledger` | Execute hledger |
 | `hlis` | `hledger is` | Generate an Income Statement |
 | `hlbs` | `hledger bs` | Generate a Balance Sheet |
+| `hlr` | `hledger reg` | Display matched postings (Register) |
 
 ## Features
 
